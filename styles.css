@@ -23,6 +23,7 @@ body {
     min-height: 100vh;
     color: var(--white);
     margin: 0 auto;
+    padding-top: 30px;
 }
 
 .card {
